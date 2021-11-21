@@ -1,5 +1,7 @@
 // You have to reach end of the maze giving the starting index and you can go in all 4 directions which is UP, DOWN, LEFT, RIGHT.
-// Here comes the picture of Backtracking , where you go on a particular cell and mark the previous cell as visited so that you do no visit that cell again and when the recursion call is complete you simply revert the cell you marked as visited to not harm the further recursion calls.
+
+/* Here comes the picture of Backtracking , where you go on a particular cell and mark the previous cell as visited so that you do not
+   visit that cell again and when the recursion call is complete you simply revert the cell you marked as visited to not harm the further recursion calls.  */
 
 #include<bits/stdc++.h>
 using namespace std;
