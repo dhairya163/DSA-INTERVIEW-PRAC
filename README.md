@@ -16,5 +16,7 @@ https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/     (la
 ## Problems to solve in future 
 
 Top view of Binary Tree
+
 Bottom view of Binary Tree
+
 Right/Left view of Binary Tree
