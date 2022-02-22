@@ -10,7 +10,10 @@ Practicing Data Structures and Algorithms for various coding rounds and technica
 
 ## Problems for revision 
 
-https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/     (last revised 26th-Jan-2022)
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/     (revised 0 times and last revised on 26th-Jan-2022)
+
+
+https://leetcode.com/problems/maximum-width-of-binary-tree/    (revised 0 times and last revised on last revised 22nd-Feb-2022)
 
 
 ## Problems to solve in future 
